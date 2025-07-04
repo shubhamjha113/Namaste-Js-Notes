@@ -70,21 +70,9 @@
 
 #### [Episode 25 : `this` keyword in JavaScript](./notes/season-2/lecture-06.md)
 
-<br>
 
-## ✨ Testimonial
 
-From the creator of Namaste Javascript himself, 🙌
-![Testimonial](./assets/testimonial.png)
 
-## 👤 Author
-
-**alok raj (alokr417@gmail.com)**
-
-- website: https://alok722.github.io/
-- linkedin: [@alok722](https://linkedin.com/in/alok722)
-
-<br>
 
 ## 🤝 Contribution Guidelines
 
